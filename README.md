@@ -12,23 +12,38 @@
 
 ---
 
+## 🏆 Soft Skills
 
+- 🤝 Teamwork & Collaboration
+- 📢 Communication Skills
+- 🎯 Problem-Solving
+- 🚀 Adaptability
 
+---
+
+## 📌 Projects
+
+Here are some of my milestone projects (to be updated as I progress!):
+
+### **1️⃣ First GitHub Project**
+
+🔹 **Description:** My first project using GitHub to manage files.  
+🔹 **Status:** ✅ Completed
+
+### **2️⃣ Personal Portfolio** _(Coming Soon!)_
+
+🔹 **Description:** A simple portfolio to showcase my projects.  
+🔹 **Technologies:** HTML, CSS
+🔹 **Status:** ⏳ In Progress
+
+---
+
+## 🏆 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 
 
 <!--
 **Bukho357/Bukho357** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
