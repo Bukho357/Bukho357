@@ -3,7 +3,8 @@
          alt="Waving hand animated gif"
          height ="45"
          width="45" />Hi there, I am Bukho Keanu Gubevu
-
+         
+🌱 Beginner Software Developer | 🚀 Lifelong Learner | 📍 South Africa
 ---
 
 🧰 Toolbox
@@ -12,37 +13,62 @@
 
 ---
 
-## 🏆 Soft Skills
+## 🎯 About Me
 
-- 🤝 Teamwork & Collaboration
-- 📢 Communication Skills
-- 🎯 Problem-Solving
-- 🚀 Adaptability
+- 🔧 Learning GitHub and version control as I begin my software dev journey
+- 🧠 Next up: HTML, CSS, JavaScript
+- 🤖 Passionate about problem-solving and tech for social good
+- 📝 Currently studying Sociology & Psychology at UNISA
+
+---
+
+## 🛠️ Tech Stack
+
+**Currently Learning:**
+- Git, GitHub
+
+**Next Up:**
+- HTML, CSS, JavaScript
+- React (for interactive web projects)
 
 ---
 
 ## 📌 Projects
 
-Here are some of my milestone projects (to be updated as I progress!):
+> *(Updating as I learn!)*
 
-### **1️⃣ First GitHub Project**
+### ✅ First GitHub Project
+- **Description**: Learned to push code to GitHub, track changes, and write commit messages.
+- **Status**: Completed
 
-🔹 **Description:** My first project using GitHub to manage files.  
-🔹 **Status:** ✅ Completed
-
-### **2️⃣ Personal Portfolio** _(Coming Soon!)_
-
-🔹 **Description:** A simple portfolio to showcase my projects.  
-🔹 **Technologies:** HTML, CSS
-🔹 **Status:** ⏳ In Progress
+### 🚧 Personal Portfolio Website
+- **Description**: A simple responsive web portfolio to showcase my projects.
+- **Tech**: HTML, CSS (soon JavaScript)
+- **Status**: In Progress
 
 ---
 
-## 🏆 GitHub Stats
+## 💼 Soft Skills
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+- 🤝 Teamwork & Collaboration
+- 📢 Communication & Public Speaking
+- 🎯 Focused Problem Solver
+- 🌱 Adaptable & Curious
 
+---
 
+## 🔗 Connect With Me
+
+- [LinkedIn](https://linkedin.com/in/YOUR_USERNAME)
+- [Email](mailto:YOUR_EMAIL@example.com)
+
+---
+
+### 📊 GitHub Stats (Optional)
+
+You can add this to show your stats:
+```markdown
+![Bukho's GitHub stats](https://github-readme-stats.vercel.app/api?username=BukhoKeanu&show_icons=true&theme=github_dark)
 
 <!--
 **Bukho357/Bukho357** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
