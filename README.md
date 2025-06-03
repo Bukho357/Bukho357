@@ -1,6 +1,4 @@
-<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand" height="45" width="45" />
-
-# Hi there, I'm **Bukho Keanu Gubevu**
+<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand" height="45" width="45" />  **Hi there, I'm Bukho Keanu Gubevu**
 
 🌱 Beginner Software Developer | 🚀 Lifelong Learner | 📍 South Africa
 
