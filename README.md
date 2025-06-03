@@ -5,8 +5,8 @@
          width="45" />Hi there, I am Bukho Keanu Gubevu
          
 🌱 Beginner Software Developer | 🚀 Lifelong Learner | 📍 South Africa
----
 
+---
 🧰 Toolbox
 
 <img src=https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg   alt= "HTML logo" width="50"  height="50"/> <img src=https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg  alt= "CSS logo" width="50"  height="50"/>  <img src=https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg  alt= "JavaScript logo" width="50"  height="50"/> <img src=https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg  alt= "React logo" width="50"  height="50"/>  <img src=https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg  alt= "Git logo" width="50"  height="50"/>  <img src=https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg  alt= "Git logo" width="50"  height="50"/>  <img src=https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg  alt= "Github logo" width="50"  height="50"/>  <img src=https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg  alt= "Github logo" width="50"  height="50"/>
@@ -56,7 +56,22 @@
 - 🌱 Adaptable & Curious
 
 ---
+Generates a snake game from a GitHub user contributions graph
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt "github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 ## 🔗 Connect With Me
 
 - [LinkedIn](https://linkedin.com/in/YOUR_USERNAME)
@@ -72,4 +87,4 @@ You can add this to show your stats:
 
 <!--
 **Bukho357/Bukho357** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+---
