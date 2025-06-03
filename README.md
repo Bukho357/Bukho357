@@ -104,6 +104,31 @@
 - 📧 [Email Me](mailto:YOUR_EMAIL@example.com)
 
 ---
+<h2 align="center">Repositories</h2>
+
+<div width="100%" align="center">
+  <a align="right" href="https://github.com/bukho357/Module_06_BUKGUB25140_PTO2503_A_Bukho_Keanu_Gubevu_SDF03" title="Module 06">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=bukho357&repo=Module_06_BUKGUB25140_PTO2503_A_Bukho_Keanu_Gubevu_SDF03&theme=react&border_color=61dafb&border_radius=10.1">
+  </a>
+  <a align="left" href="https://github.com/bukho357/Module_04_BUKGUB25140_PTO2503_A_Bukho_Keanu_Gubevu_SDF02" title="Module 04">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=bukho357&repo=Module_04_BUKGUB25140_PTO2503_A_Bukho_Keanu_Gubevu_SDF02&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+</div>
+
+<br/><br/><br/><br/><br/><br/>
+
+<div width="100%" align="center">
+  <a align="center" href="https://github.com/bukho357/Module_08_BUKGUB25140_PTO2503_A_Bukho_Keanu_Gubevu_SDF04" title="Module 08">
+    <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=bukho357&repo=Module_08_BUKGUB25140_PTO2503_A_Bukho_Keanu_Gubevu_SDF04&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+</div>
+
+<br/><br/><br/>
+
+<h4 align="center">
+  <a href="https://github.com/bukho357?tab=repositories" title="Show All Repositories">Show More</a>
+</h4>
+
 <h2 align="center">Repositories </h2>
 <div width="100%" align="center">
   <a align="right" href="https://github.com/ElvisAbner/React-KeeperApp" title="Repository 1"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ElvisAbner&repo=React-KeeperApp&theme=react&border_color=61dafb&border_radius=10.1"></a>
