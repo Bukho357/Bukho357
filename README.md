@@ -65,33 +65,28 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊  GitHub Stats
+
+[![Bukho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bukho357&show_icons=true&theme=dracula)](https://github.com/Bukho357/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bukho357&size_weight=0.5&count_weight=0.5)](https://github.com/Bukho357/github-readme-stats)
+
 <h2 align="center">Stats</h2>
-<p align=center>
-  <div align=center>
-    <a href="#">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=ElvisAbner&theme=react&border_radius=10&border=61DAFB" />
-    </a>
-    <a href="#">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=ElvisAbner&show_icons=true&theme=react&border_color=61dafb&border_radius=10&rank_icon=github" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="#">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElvisAbner&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&theme=react&border_color=61dafb&border_radius=10" />
-    </a>
-  </div>
-  <br>
-  <br>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=BukhoKeanu&show_icons=true&theme=react&border_color=61dafb&border_radius=10" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=BukhoKeanu&theme=react&border_radius=10&border=61DAFB" />
+  <a href="#">
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bukho357&theme=react&border_radius=10&border=61DAFB" />
+  </a>
+  <a href="#">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Bukho357&show_icons=true&theme=react&border_color=61dafb&border_radius=10&rank_icon=github" />
+  </a>
 </p>
 
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BukhoKeanu&layout=compact&theme=react&border_color=61dafb&border_radius=10" />
+  <a href="#">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bukho357&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&theme=react&border_color=61dafb&border_radius=10" />
+  </a>
 </p>
+
 
 ---
 
