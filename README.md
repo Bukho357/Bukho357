@@ -129,12 +129,6 @@
   <a href="https://github.com/bukho357?tab=repositories" title="Show All Repositories">Show More</a>
 </h4>
 
-<br/><br/><br/><br/><br/><br/>
-
-<h4 align="center">
-  <a href="https://github.com/bukho357?tab=repositories" title="Show Repositories">Show More</a>
-</h4>
-<!--
 **BukhoKeanu/BukhoKeanu** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 -->
 
