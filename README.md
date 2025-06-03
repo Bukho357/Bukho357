@@ -1,90 +1,92 @@
+<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+     alt="Waving hand" 
+     height="45" 
+     width="45" /> 
 
- <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height ="45"
-         width="45" />Hi there, I am Bukho Keanu Gubevu
-         
+# Hi there, I'm **Bukho Keanu Gubevu**
+
 🌱 Beginner Software Developer | 🚀 Lifelong Learner | 📍 South Africa
 
 ---
-🧰 Toolbox
 
-<img src=https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg   alt= "HTML logo" width="50"  height="50"/> <img src=https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg  alt= "CSS logo" width="50"  height="50"/>  <img src=https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg  alt= "JavaScript logo" width="50"  height="50"/> <img src=https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg  alt= "React logo" width="50"  height="50"/>  <img src=https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg  alt= "Git logo" width="50"  height="50"/>  <img src=https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg  alt= "Git logo" width="50"  height="50"/>  <img src=https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg  alt= "Github logo" width="50"  height="50"/>  <img src=https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg  alt= "Github logo" width="50"  height="50"/>
+## 🧰 Toolbox
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="50" height="50"/>
+</div>
 
 ---
 
 ## 🎯 About Me
 
-- 🔧 Learning GitHub and version control as I begin my software dev journey
-- 🧠 Next up: HTML, CSS, JavaScript
-- 🤖 Passionate about problem-solving and tech for social good
-- 📝 Currently studying Sociology & Psychology at UNISA
+- 🔧 Learning Git and version control as I start my software development journey  
+- 🧠 Currently focused on: HTML, CSS, JavaScript  
+- 🤖 Passionate about problem-solving & tech for social good  
+- 📚 Studying Sociology & Psychology at UNISA  
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Currently Learning:**
-- Git, GitHub
+**Currently Exploring:**
+- Git & GitHub  
+- Markdown  
+- Terminal navigation  
 
-**Next Up:**
-- HTML, CSS, JavaScript
-- React (for interactive web projects)
+**Coming Soon:**
+- HTML, CSS, JavaScript  
+- React for front-end magic ✨  
 
 ---
 
 ## 📌 Projects
 
-> *(Updating as I learn!)*
+> *More to come as I grow and learn!*
 
 ### ✅ First GitHub Project
-- **Description**: Learned to push code to GitHub, track changes, and write commit messages.
-- **Status**: Completed
+- **Goal**: Learn how to push code, track changes, and commit like a pro  
+- **Status**: ✅ Completed
 
 ### 🚧 Personal Portfolio Website
-- **Description**: A simple responsive web portfolio to showcase my projects.
-- **Tech**: HTML, CSS (soon JavaScript)
-- **Status**: In Progress
+- **Goal**: Showcase my journey and projects  
+- **Tech**: HTML, CSS, and soon JavaScript  
+- **Status**: 🛠️ In Progress
 
 ---
 
 ## 💼 Soft Skills
 
-- 🤝 Teamwork & Collaboration
-- 📢 Communication & Public Speaking
-- 🎯 Focused Problem Solver
-- 🌱 Adaptable & Curious
+- 🤝 Teamwork & Collaboration  
+- 🗣️ Public Speaking & Communication  
+- 🧠 Critical Thinking & Problem Solving  
+- 🌍 Adaptable & Culturally Aware  
 
 ---
-Generates a snake game from a GitHub user contributions graph
+
+## 🐍 GitHub Contribution Snake
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt "github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution graph snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </picture>
+
+---
+
 ## 🔗 Connect With Me
 
-- [LinkedIn](https://linkedin.com/in/YOUR_USERNAME)
-- [Email](mailto:YOUR_EMAIL@example.com)
+- 💼 [LinkedIn](https://linkedin.com/in/YOUR_USERNAME)  
+- 📧 [Email Me](mailto:YOUR_EMAIL@example.com)
 
 ---
 
-### 📊 GitHub Stats (Optional)
+## 📊 GitHub Stats
 
-You can add this to show your stats:
 ```markdown
-![Bukho's GitHub stats](https://github-readme-stats.vercel.app/api?username=BukhoKeanu&show_icons=true&theme=github_dark)
+![Bukho's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BukhoKeanu&show_icons=true&theme=github_dark)
 
-<!--
-**Bukho357/Bukho357** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
----
