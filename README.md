@@ -31,12 +31,12 @@
 **Currently Exploring:**
 - Git & GitHub  
 - Markdown  
-- Terminal navigation  
+- Terminal navigation
+ - HTML & CSS
 
 **Coming Soon:**
-- HTML, CSS, JavaScript  
+- JavaScript  
 - React for front-end magic ✨  
-
 ---
 
 ## 📌 Projects
