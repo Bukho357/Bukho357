@@ -100,8 +100,10 @@
 
 ## 🔗 Connect With Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR_USERNAME)  
-- 📧 [Email Me](mailto:YOUR_EMAIL@example.com)
+
+-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bukhokeanugubevu)  
+-📧Email: [bukhokeanugubevu7@gmail.com](mailto:bukhokeanugubevu7@gmail.com)
+
 
 ---
 <h2 align="center">Repositories</h2>
