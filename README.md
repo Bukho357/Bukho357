@@ -109,9 +109,12 @@
 <h2 align="center">Repositories</h2>
 
 <div width="100%" align="center">
+  <!-- Module 06 -->
   <a align="right" href="https://github.com/bukho357/Module_06_BUKGUB25140_PTO2503_A_Bukho_Keanu_Gubevu_SDF03" title="Module 06">
     <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=bukho357&repo=Module_06_BUKGUB25140_PTO2503_A_Bukho_Keanu_Gubevu_SDF03&theme=react&border_color=61dafb&border_radius=10.1">
   </a>
+
+  <!-- Module 04 -->
   <a align="left" href="https://github.com/bukho357/Module_04_BUKGUB25140_PTO2503_A_Bukho_Keanu_Gubevu_SDF02" title="Module 04">
     <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=bukho357&repo=Module_04_BUKGUB25140_PTO2503_A_Bukho_Keanu_Gubevu_SDF02&theme=react&border_color=61dafb&border_radius=10">
   </a>
@@ -120,8 +123,18 @@
 <br/><br/><br/><br/><br/><br/>
 
 <div width="100%" align="center">
-  <a align="center" href="https://github.com/bukho357/Module_08_BUKGUB25140_PTO2503_A_Bukho_Keanu_Gubevu_SDF04" title="Module 08">
+  <!-- Module 08 (SDF04) -->
+  <a align="center" href="https://github.com/bukho357/Module_08_BUKGUB25140_PTO2503_A_Bukho_Keanu_Gubevu_SDF04" title="Module 08 (SDF04)">
     <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=bukho357&repo=Module_08_BUKGUB25140_PTO2503_A_Bukho_Keanu_Gubevu_SDF04&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+</div>
+
+<br/><br/><br/>
+
+<div width="100%" align="center">
+  <!-- Module 08 (SDF05) -->
+  <a align="center" href="https://github.com/Bukho357/Module_08_BUKGUB25140_PTO2503_A_Bukho_Keanu_Gubevu_SDF05" title="Module 08 (SDF05)">
+    <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=bukho357&repo=Module_08_BUKGUB25140_PTO2503_A_Bukho_Keanu_Gubevu_SDF05&theme=react&border_color=61dafb&border_radius=10">
   </a>
 </div>
 
