@@ -149,17 +149,17 @@
 
 <br/><br/><br/>
 
+<div width="100%" align="center">
+  <!-- Afrika Borwa Cuisine Repo -->
+  <a align="center" href="https://github.com/Bukho357/Afrika-Borwa-Cuisine" title="Afrika Borwa Cuisine">
+    <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Bukho357&repo=Afrika-Borwa-Cuisine&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+</div>
+
+<br/><br/><br/>
+
 <h4 align="center">
   <a href="https://github.com/bukho357?tab=repositories" title="Show All Repositories">Show More</a>
 </h4>
 
-
-
-
-
-
-
-**BukhoKeanu/BukhoKeanu** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 -->
-
-
