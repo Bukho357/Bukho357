@@ -64,12 +64,6 @@
 ---
 
 ## 📊  GitHub Stats
-
-[![Bukho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bukho357&show_icons=true&theme=dracula)](https://github.com/Bukho357/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bukho357&size_weight=0.5&count_weight=0.5)](https://github.com/Bukho357/github-readme-stats)
-
-<h2 align="center">Stats</h2>
 <p align="center">
   <a href="#">
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bukho357&theme=react&border_radius=10&border=61DAFB" />
