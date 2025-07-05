@@ -142,12 +142,11 @@
 </div>
 
 <br/><br/><br/>
-<div align="center" style="width: 100%;">
+<div width="100%" align="center">
   <a href="https://github.com/Bukho357/Afrika-Borwa-Cuisine" title="Afrika Borwa Cuisine">
     <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Bukho357&repo=Afrika-Borwa-Cuisine&theme=react&border_color=61dafb&border_radius=10" alt="Afrika Borwa Cuisine Repo" />
   </a>
 </div>
-
 
 <br/><br/><br/>
 
