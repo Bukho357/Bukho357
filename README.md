@@ -62,24 +62,16 @@
 - 🌍 Adaptable & Culturally Aware  
 
 ---
+## 📊 GitHub Stats
 
-## 📊  GitHub Stats
 <p align="center">
-  <a href="#">
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bukho357&theme=react&border_radius=10&border=61DAFB" />
-  </a>
-  <a href="#">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Bukho357&show_icons=true&theme=react&border_color=61dafb&border_radius=10&rank_icon=github" />
-  </a>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bukho357&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Bukho357&show_icons=true&theme=react&border_color=61dafb&border_radius=10&rank_icon=github" />
 </p>
 
 <p align="center">
-  <a href="#">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bukho357&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&theme=react&border_color=61dafb&border_radius=10" />
-  </a>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bukho357&layout=compact&theme=tokyonight" />
 </p>
-
-
 ---
 
 ## 🐍 GitHub Contribution Snake
