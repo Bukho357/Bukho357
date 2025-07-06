@@ -90,59 +90,50 @@
 -[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bukhokeanugubevu)  
 -📧Email: [bukhokeanugubevu7@gmail.com](mailto:bukhokeanugubevu7@gmail.com)
 
-
 ---
 <h2 align="center">Repositories</h2>
 
-<div width="100%" align="center">
+<div align="center">
+
   <!-- Module 06 -->
-  <a align="right" href="https://github.com/bukho357/Module_06_BUKGUB25140_PTO2503_A_Bukho_Keanu_Gubevu_SDF03" title="Module 06">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=bukho357&repo=Module_06_BUKGUB25140_PTO2503_A_Bukho_Keanu_Gubevu_SDF03&theme=react&border_color=61dafb&border_radius=10.1">
+  <a href="https://github.com/bukho357/Module_06_BUKGUB25140_PTO2503_A_Bukho_Keanu_Gubevu_SDF03" title="Module 06">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=bukho357&repo=Module_06_BUKGUB25140_PTO2503_A_Bukho_Keanu_Gubevu_SDF03&theme=react&border_color=61dafb&border_radius=10.1">
   </a>
 
   <!-- Module 04 -->
-  <a align="left" href="https://github.com/bukho357/Module_04_BUKGUB25140_PTO2503_A_Bukho_Keanu_Gubevu_SDF02" title="Module 04">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=bukho357&repo=Module_04_BUKGUB25140_PTO2503_A_Bukho_Keanu_Gubevu_SDF02&theme=react&border_color=61dafb&border_radius=10">
+  <a href="https://github.com/bukho357/Module_04_BUKGUB25140_PTO2503_A_Bukho_Keanu_Gubevu_SDF02" title="Module 04">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=bukho357&repo=Module_04_BUKGUB25140_PTO2503_A_Bukho_Keanu_Gubevu_SDF02&theme=react&border_color=61dafb&border_radius=10">
   </a>
-</div>
 
-<br/><br/><br/><br/><br/><br/>
-
-<div width="100%" align="center">
   <!-- Module 08 (SDF04) -->
-  <a align="center" href="https://github.com/bukho357/Module_08_BUKGUB25140_PTO2503_A_Bukho_Keanu_Gubevu_SDF04" title="Module 08 (SDF04)">
-    <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=bukho357&repo=Module_08_BUKGUB25140_PTO2503_A_Bukho_Keanu_Gubevu_SDF04&theme=react&border_color=61dafb&border_radius=10">
+  <a href="https://github.com/bukho357/Module_08_BUKGUB25140_PTO2503_A_Bukho_Keanu_Gubevu_SDF04" title="Module 08 (SDF04)">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=bukho357&repo=Module_08_BUKGUB25140_PTO2503_A_Bukho_Keanu_Gubevu_SDF04&theme=react&border_color=61dafb&border_radius=10">
   </a>
-</div>
 
-<br/><br/><br/>
-
-<div width="100%" align="center">
   <!-- Module 08 (SDF05) -->
-  <a align="center" href="https://github.com/Bukho357/Module_08_BUKGUB25140_PTO2503_A_Bukho_Keanu_Gubevu_SDF05" title="Module 08 (SDF05)">
-    <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=bukho357&repo=Module_08_BUKGUB25140_PTO2503_A_Bukho_Keanu_Gubevu_SDF05&theme=react&border_color=61dafb&border_radius=10">
+  <a href="https://github.com/Bukho357/Module_08_BUKGUB25140_PTO2503_A_Bukho_Keanu_Gubevu_SDF05" title="Module 08 (SDF05)">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=bukho357&repo=Module_08_BUKGUB25140_PTO2503_A_Bukho_Keanu_Gubevu_SDF05&theme=react&border_color=61dafb&border_radius=10">
   </a>
-</div>
 
-<br/><br/><br/>
-
-<div width="100%" align="center">
-  <!-- Login Form Repo -->
-  <a align="center" href="https://github.com/Bukho357/Login-Form-using-HTML-and-CSS" title="Login Form using HTML and CSS">
-    <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=bukho357&repo=Login-Form-using-HTML-and-CSS&theme=react&border_color=61dafb&border_radius=10">
+  <!-- Login Form using HTML and CSS -->
+  <a href="https://github.com/Bukho357/Login-Form-using-HTML-and-CSS" title="Login Form using HTML and CSS">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=bukho357&repo=Login-Form-using-HTML-and-CSS&theme=react&border_color=61dafb&border_radius=10">
   </a>
-</div>
 
-<br/><br/><br/>
-<div width="100%" align="center">
+  <!-- Afrika Borwa Cuisine -->
   <a href="https://github.com/Bukho357/Afrika-Borwa-Cuisine" title="Afrika Borwa Cuisine">
     <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Bukho357&repo=Afrika-Borwa-Cuisine&theme=react&border_color=61dafb&border_radius=10" alt="Afrika Borwa Cuisine Repo" />
   </a>
+
+  <!-- EspressYoSelf Coffee Shop -->
+  <a href="https://github.com/Bukho357/EspressYoSelf-Coffee-Shop" title="EspressYoSelf Coffee Shop">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Bukho357&repo=EspressYoSelf-Coffee-Shop&theme=react&border_color=61dafb&border_radius=10" alt="EspressYoSelf Coffee Shop Repo" />
+  </a>
+
 </div>
 
-<br/><br/><br/>
+<br/>
 
 <h4 align="center">
   <a href="https://github.com/bukho357?tab=repositories" title="Show All Repositories">Show More</a>
 </h4>
-
