@@ -92,7 +92,12 @@
 <h2 align="center">Repositories</h2>
 
 <div align="center">
-
+  
+  <!-- JSL02 -->
+  <a href="https://github.com/Bukho357/BUKGUB25140_PTO2503_A_Bukho_Keanu_Gubevu_JSL02" title="JSL02">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Bukho357&repo=BUKGUB25140_PTO2503_A_Bukho_Keanu_Gubevu_JSL02&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+  
   <!-- Module 06 -->
   <a href="https://github.com/bukho357/Module_06_BUKGUB25140_PTO2503_A_Bukho_Keanu_Gubevu_SDF03" title="Module 06">
     <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=bukho357&repo=Module_06_BUKGUB25140_PTO2503_A_Bukho_Keanu_Gubevu_SDF03&theme=react&border_color=61dafb&border_radius=10.1">
