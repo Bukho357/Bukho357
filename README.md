@@ -63,13 +63,12 @@
 
 ---
 ## 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Bukho357&show_icons=true&theme=react&border_color=61dafb&border_radius=10&rank_icon=github" />
-</p>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bukho357&layout=compact&theme=tokyonight&hide_progress=false&border_radius=10" />
-</p>
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bukho357&show_icons=true&theme=react&border_color=61dafb&border_radius=10&rank_icon=github" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bukho357&layout=compact&theme=tokyonight&hide_progress=false&border_radius=10" width="48%" />
+</div>
+
 ---
 
 ## 🐍 GitHub Contribution Snake
