@@ -41,8 +41,6 @@
 
 ## 📌 Projects
 
-> *More to come as I grow and learn!*
-
 ### ✅ First GitHub Project
 - **Goal**: Learn how to push code, track changes, and commit like a pro  
 - **Status**: ✅ Completed
@@ -64,10 +62,7 @@
 ---
 ## 📊 GitHub Stats
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bukho357&show_icons=true&theme=react&border_color=61dafb&border_radius=10&rank_icon=github" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bukho357&layout=compact&theme=tokyonight&hide_progress=false&border_radius=10" width="48%" />
-</div>
+
 
 ---
 
@@ -88,48 +83,8 @@
 -📧Email: [bukhokeanugubevu7@gmail.com](mailto:bukhokeanugubevu7@gmail.com)
 
 ---
-<h2 align="center">Repositories</h2>
 
-<div align="center">
-  <!-- Module 06 -->
-  <a href="https://github.com/bukho357/Module_06_BUKGUB25140_PTO2503_A_Bukho_Keanu_Gubevu_SDF03" title="Module 06">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=bukho357&repo=Module_06_BUKGUB25140_PTO2503_A_Bukho_Keanu_Gubevu_SDF03&theme=react&border_color=61dafb&border_radius=10.1">
-  </a>
+<h2 align="center">🚀 Featured Repositories</h2>
 
-  <!-- Module 04 -->
-  <a href="https://github.com/bukho357/Module_04_BUKGUB25140_PTO2503_A_Bukho_Keanu_Gubevu_SDF02" title="Module 04">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=bukho357&repo=Module_04_BUKGUB25140_PTO2503_A_Bukho_Keanu_Gubevu_SDF02&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-
-  <!-- Module 08 (SDF04) -->
-  <a href="https://github.com/bukho357/Module_08_BUKGUB25140_PTO2503_A_Bukho_Keanu_Gubevu_SDF04" title="Module 08 (SDF04)">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=bukho357&repo=Module_08_BUKGUB25140_PTO2503_A_Bukho_Keanu_Gubevu_SDF04&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-
-  <!-- Module 08 (SDF05) -->
-  <a href="https://github.com/Bukho357/Module_08_BUKGUB25140_PTO2503_A_Bukho_Keanu_Gubevu_SDF05" title="Module 08 (SDF05)">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=bukho357&repo=Module_08_BUKGUB25140_PTO2503_A_Bukho_Keanu_Gubevu_SDF05&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-
-  <!-- Login Form using HTML and CSS -->
-  <a href="https://github.com/Bukho357/Login-Form-using-HTML-and-CSS" title="Login Form using HTML and CSS">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=bukho357&repo=Login-Form-using-HTML-and-CSS&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-
-  <!-- Afrika Borwa Cuisine -->
-  <a href="https://github.com/Bukho357/Afrika-Borwa-Cuisine" title="Afrika Borwa Cuisine">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Bukho357&repo=Afrika-Borwa-Cuisine&theme=react&border_color=61dafb&border_radius=10" alt="Afrika Borwa Cuisine Repo" />
-  </a>
-
-  <!-- EspressYoSelf Coffee Shop -->
-  <a href="https://github.com/Bukho357/EspressYoSelf-Coffee-Shop" title="EspressYoSelf Coffee Shop">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Bukho357&repo=EspressYoSelf-Coffee-Shop&theme=react&border_color=61dafb&border_radius=10" alt="EspressYoSelf Coffee Shop Repo" />
-  </a>
-
-</div>
-
-<br/>
-
-<h4 align="center">
   <a href="https://github.com/bukho357?tab=repositories" title="Show All Repositories">Show More</a>
 </h4>
