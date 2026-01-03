@@ -47,11 +47,11 @@
 - **Status**: ✅ Completed
 
 ### 🚧 Personal Portfolio Website
-- **Goal**: Showcase my journey and projects  
-- **Tech**: HTML & CSS
+- **Goal**: Build my resume site 
+- **Tech**: HTML & CSS 
 - **Status**: : ✅ Completed
 
-### 🗂️ Kanban Task Manager 
+### 🗂️ Kanban Board Project Management App
 - **Goal**: A fully responsive Kanban-style task management application 
 - **Tech**: HTML, CSS and JavaScript 
 - **Status**:✅ Completed
