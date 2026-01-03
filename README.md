@@ -32,10 +32,11 @@
 - Git & GitHub  
 - Markdown  
 - Terminal navigation
- - HTML & CSS
+- HTML & CSS
+-JavaScript
 
-**Coming Soon:**
-- JavaScript  
+**Coming Soon:** 
+-Dynamic JavaScript
 - React for front-end magic ✨  
 ---
 
@@ -47,9 +48,13 @@
 
 ### 🚧 Personal Portfolio Website
 - **Goal**: Showcase my journey and projects  
-- **Tech**: HTML, CSS, and soon JavaScript  
-- **Status**: 🛠️ In Progress
+- **Tech**: HTML & CSS
+- **Status**: : ✅ Completed
 
+### 🗂️ Kanban Task Manager 
+- **Goal**: A fully responsive Kanban-style task management application 
+- **Tech**: HTML, CSS and JavaScript 
+- **Status**:✅ Completed
 ---
 
 ## 💼 Soft Skills
